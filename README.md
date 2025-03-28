@@ -15,3 +15,7 @@ This assignment involves writing Python programs for various tasks like determin
 Assignment4: Python-Functions
 
 This assignment focuses on Python concepts including the use of len() to find the length of a list, creating a greet(name) function for personalized greetings, and writing a find_maximum(numbers) function without max(). It also covers the difference between local and global variables, along with default arguments in the calculate_area() function.
+
+Assignment5: File and Exception handling.
+
+This assignment contains Python programming exercises focusing on file operations, exception handling, and arithmetic computations. These exercises are designed to strengthen fundamental programming skills while introducing intermediate concepts.
