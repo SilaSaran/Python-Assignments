@@ -19,3 +19,9 @@ This assignment focuses on Python concepts including the use of len() to find th
 Assignment5: File and Exception handling.
 
 This assignment contains Python programming exercises focusing on file operations, exception handling, and arithmetic computations. These exercises are designed to strengthen fundamental programming skills while introducing intermediate concepts.
+
+Assignment6: OOPS
+
+In this assignment writing a program to manage a university's course catalog using a base class Course, along with subclasses CoreCourse and ElectiveCourse, each with distinct attributes (required_for_major and elective_type) to represent mandatory and elective courses.
+
+Created a Python module named employee, defining an Employee class with methods for accessing attributes (name and salary), and import it into a separate program to display employee information effectively.
