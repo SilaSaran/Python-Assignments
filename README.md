@@ -23,5 +23,9 @@ This assignment contains Python programming exercises focusing on file operation
 Assignment6: OOPS
 
 In this assignment writing a program to manage a university's course catalog using a base class Course, along with subclasses CoreCourse and ElectiveCourse, each with distinct attributes (required_for_major and elective_type) to represent mandatory and elective courses.
-
 Created a Python module named employee, defining an Employee class with methods for accessing attributes (name and salary), and import it into a separate program to display employee information effectively.
+
+Assignment7: Numpy_Pandas
+
+This assignment involves working with NumPy and Pandas libraries in Python to perform essential data manipulation tasks. 
+The exercises include creating and reshaping arrays, filtering data, and managing series and dataframes, such as adding columns, filtering rows, and exporting to CSV files.
