@@ -28,4 +28,7 @@ Created a Python module named employee, defining an Employee class with methods 
 Assignment7: Numpy_Pandas
 
 This assignment involves working with NumPy and Pandas libraries in Python to perform essential data manipulation tasks. 
-The exercises include creating and reshaping arrays, filtering data, and managing series and dataframes, such as adding columns, filtering rows, and exporting to CSV files.
+The exercises include creating and reshaping arrays, filtering data, and managing series and dataframes, such as adding columns, filtering rows. 
+Exporting the dataframe to a CSV files then read that CSV file and display its contents.
+
+.
