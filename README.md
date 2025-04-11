@@ -35,7 +35,10 @@ Assignment8: Python-Data_Visualization_Task
 
 This project includes three data visualization exercises:
 Line Plot: Displays the population trends of four cities (City A, City B, City C, and City D) from 2010 to 2016 using matplotlib.pyplot.
+
 Scatter Plot: Shows the relationship between hours studied and test scores of students using seaborn.
+
 Bar Chart: Represents total sales for each month of a year using matplotlib.pyplot.
+
 Each plot is crafted to effectively communicate the given dataset in an intuitive and visually appealing way.
 
