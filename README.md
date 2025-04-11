@@ -31,4 +31,11 @@ This assignment involves working with NumPy and Pandas libraries in Python to pe
 The exercises include creating and reshaping arrays, filtering data, and managing series and dataframes, such as adding columns, filtering rows. 
 Exporting the dataframe to a CSV files then read that CSV file and display its contents.
 
-.
+Assignment8: Python-Data_Visualization_Task
+
+This project includes three data visualization exercises:
+Line Plot: Displays the population trends of four cities (City A, City B, City C, and City D) from 2010 to 2016 using matplotlib.pyplot.
+Scatter Plot: Shows the relationship between hours studied and test scores of students using seaborn.
+Bar Chart: Represents total sales for each month of a year using matplotlib.pyplot.
+Each plot is crafted to effectively communicate the given dataset in an intuitive and visually appealing way.
+
